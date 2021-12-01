@@ -1,7 +1,7 @@
 # Contribution Guidelines
 
 Please follow the instructions below to make a contribution.
-
+d
 This resource was made by the developers and hackers alike! We appreciate and recognize all [contributors](#contributors).
 
 ## Table of Content
